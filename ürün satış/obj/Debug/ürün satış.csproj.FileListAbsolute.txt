@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\ürün satış\ürün satış\bin\Debug\ürün satış.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\ürün satış\ürün satış\bin\Debug\ürün satış.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\ürün satış\ürün satış\bin\Debug\ürün satış.pdb
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\ürün satış\ürün satış\obj\Debug\ürün satış.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\ürün satış\ürün satış\obj\Debug\ürün satış.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\ürün satış\ürün satış\obj\Debug\ürün_satış.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\ürün satış\ürün satış\obj\Debug\ürün_satış.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\ürün satış\ürün satış\obj\Debug\ürün satış.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\ürün satış\ürün satış\obj\Debug\ürün satış.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\ürün satış\ürün satış\obj\Debug\ürün satış.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\ürün satış\ürün satış\obj\Debug\ürün satış.pdb
